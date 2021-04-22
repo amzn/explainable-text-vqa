@@ -1,11 +1,6 @@
-## My Project
+## TextVQA-X Dataset
 
-TODO: Fill this README out!
-
-Be sure to:
-
-* Change the title in this README
-* Edit your repository description on GitHub
+We will release the TextVQA-X dataset accompanying the "A First Look: Towards Explainable TextVQA Models via Visual and Textual Explanations" paper published at NAACL 2021 Multimodal AI Workshop. Stay tuned for updates. 
 
 ## Security
 
