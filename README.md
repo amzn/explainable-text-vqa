@@ -1,6 +1,6 @@
 ## TextVQA-X Dataset
 
-We will release the TextVQA-X dataset accompanying the "A First Look: Towards Explainable TextVQA Models via Visual and Textual Explanations" paper published at NAACL 2021 Multimodal AI Workshop. Stay tuned for updates. 
+We will shortly release the TextVQA-X dataset accompanying the [A First Look: Towards Explainable TextVQA Models via Visual and Textual Explanations](https://www.amazon.science/publications/a-first-look-towards-explainable-textvqa-models-via-visual-and-textual-explanations) paper published at NAACL 2021 [Multimodal AI Workshop](http://multicomp.cs.cmu.edu/naacl2021multimodalworkshop/). Stay tuned for updates. 
 
 ## Security
 
